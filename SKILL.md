@@ -1,6 +1,6 @@
 ---
 name: formula-ocr
-version: 0.2.0
+version: 0.2.1
 description: >
   Recognize and extract mathematical formulas from documents, images, screenshots, and scanned papers using MinerU-powered OCR. Convert handwritten or printed math equations into LaTeX, MathML, or plain text format for editing and reuse.
 
